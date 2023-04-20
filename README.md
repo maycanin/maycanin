@@ -28,14 +28,6 @@
       height="40"
     />
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img
-      src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
